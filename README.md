@@ -20,7 +20,7 @@ This repository contains a Next.js frontend for interacting with the [`solana-cp
 Its scope is intentionally narrow:
 
 - read pool data through the local `solana-cpmm-indexer`
-- connect to an injected Solana wallet
+- connect to Phantom wallet
 - support three user actions:
   - add liquidity
   - swap
